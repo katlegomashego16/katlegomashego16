@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:0d1117&text=Katlego%20Mashego&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Building%20production-grade%20systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Katlego Mashego header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:0d1117&text=Katlego%20Mashego&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20Cloud%20%C2%B7%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Katlego Mashego header banner" width="100%" />
 
 <h1>Hi 👋, I'm Katlego Mashego</h1>
 
 <a href="https://github.com/katlegomashego16">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Cloud+%7C+DevOps+%7C+DevSecOps;Data+Engineering+%7C+Microservices;Building+production-style+systems" alt="Software Engineer | Java & Spring Boot | Cloud | DevOps | Data Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Cloud+%7C+DevOps+%7C+DevSecOps;Secure%2C+observable+backend+systems" alt="Software Engineer | Java & Spring Boot | Cloud | DevOps | DevSecOps" />
 </a>
 
 <br/>
@@ -26,48 +26,41 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **software engineer focused on backend development with Java and Spring Boot**, and I'm deliberately expanding into **cloud engineering, DevOps, security and data engineering**.
-
-I enjoy building **production-style systems rather than only tutorials**: authentication and authorization with Keycloak, CI/CD pipelines, container builds, vulnerability scanning, metrics and dashboards, and clean API design. The goal is software that is secure, observable and ready to run, not just software that works on my laptop.
+<h2 align="center"><b>👨‍💻 About Me</b></h2>
 
 <div align="center">
 
-| 🎯 Focus | ☁️ Growing into | 🔐 Care about |
+I'm a **backend software engineer** who works mainly in **Java and Spring Boot**.
+
+I care about the parts of a system that only show up once it's running for real: identity and access, failure handling, deployment and visibility into what the service is doing. That's why I build with **Keycloak and OAuth2/OIDC**, ship through **CI/CD pipelines**, run everything in **containers**, and instrument services with **Prometheus and Grafana**.
+
+I learn by building **production-style systems** rather than following tutorials end to end, and I'm steadily pushing further into **cloud, DevOps and application security**.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🧱 How I build | 🔐 What I prioritise | 🚢 How I ship |
 |:---:|:---:|:---:|
-| Backend engineering | Cloud and DevOps | Security by design |
-| Java · Spring Boot | Data engineering | Observability |
+| Clean REST APIs<br/>Microservice boundaries<br/>Solid data modelling | Authentication and authorization<br/>API security<br/>Scanning in the pipeline | Docker and CI/CD<br/>Metrics and monitoring<br/>Repeatable deployments |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Engineering interests**
+
+Distributed systems · Microservices · Event-driven architecture · API design · Cloud-native applications · DevSecOps · Payment systems · Fraud detection · AI-assisted applications
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎫 SmartDeskSupport</h3>
-      <p>AI-powered IT service desk and ticketing system with full ticket lifecycle management and AI-assisted resolution.</p>
-      <sub><b>Spring Boot · REST APIs · Keycloak · OAuth2/OIDC · Docker · GitHub Actions · Prometheus · Grafana</b></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💳 PayBridge</h3>
-      <p>Payment gateway abstraction built around provider switching, routing, failover and webhook-driven integrations.</p>
-      <sub><b>Spring Boot · Provider abstraction · Routing · Failover · Webhooks · Event-driven design</b></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚛️ QuantumKat Solutions</h3>
-      <p>Software solutions initiative delivering web applications, business automation, internal systems and AI-powered tools.</p>
-      <sub><b>Web apps · Automation · Internal systems · AI solutions</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center"><b>🛠️ Tech Stack</b></h2>
 
 <div align="center">
 
@@ -80,13 +73,12 @@ I enjoy building **production-style systems rather than only tutorials**: authen
 | **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,linux&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Jenkins, Linux" /> <br/><sub>CI/CD · Infrastructure concepts</sub> |
 | **Security** | <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" /> <img src="https://img.shields.io/badge/OAuth2%20%2F%20OIDC-1f6feb?style=flat-square" alt="OAuth2 / OIDC" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" /> <img src="https://img.shields.io/badge/SonarQube%20%2F%20Cloud-4E9BCD?style=flat-square&logo=sonarqubecloud&logoColor=white" alt="SonarQube / SonarCloud" /> <br/><sub>Spring Security · API security · DevSecOps · Vulnerability scanning</sub> |
 | **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana" /> <br/><sub>Spring Boot Actuator · Metrics · Logging and monitoring</sub> |
-| **Data Engineering** | <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" /> <br/><sub>SQL · Python · ETL/ELT · Data pipelines · Cloud data platforms</sub> |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center"><b>📊 GitHub Stats</b></h2>
 
 <div align="center">
 
@@ -115,62 +107,11 @@ I enjoy building **production-style systems rather than only tutorials**: authen
 
 ---
 
-## 🧠 Currently Learning
-
-```mermaid
-flowchart LR
-    A["☕ Java<br/>Advanced Backend<br/>Engineering"] --> B["☁️ Cloud<br/>AWS · Azure"]
-    B --> C["🐳 DevOps<br/>Docker · Kubernetes<br/>CI/CD"]
-    C --> D["🔐 Security<br/>DevSecOps<br/>AppSec"]
-    D --> E["📊 Data<br/>SQL · Python · Kafka<br/>Databricks · dbt"]
-
-    style A fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style B fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style C fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style D fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style E fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-```
-
-| Track | Direction | Focus |
-|:--|:--|:--|
-| ☕ **Java** | Advanced Backend Engineering | Deeper Spring, performance, clean architecture |
-| ☁️ **Cloud** | AWS / Azure | Cloud-native deployment and services |
-| 🐳 **DevOps** | Docker / Kubernetes / CI/CD | Automated build, test, ship pipelines |
-| 🔐 **Security** | DevSecOps / Application Security | Secure code, scanning, identity |
-| 📊 **Data** | SQL / Python / Kafka / Databricks / dbt | Pipelines and cloud data platforms |
-
----
-
-## 🏗️ Engineering Interests
+<h2 align="center"><b>📫 Connect With Me</b></h2>
 
 <div align="center">
 
-| | | |
-|:--|:--|:--|
-| 🌐 Distributed systems | 🧩 Microservices | ⚡ Event-driven architecture |
-| 🔌 API design | ☁️ Cloud-native applications | 🛡️ DevSecOps |
-| 📊 Data engineering | 🤖 AI-assisted applications | 💳 Payment systems |
-| 🕵️ Fraud detection | | |
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Repository | Status |
-|:--|:--|:--|:--|:--:|
-| **🎫 SmartDeskSupport** | AI-powered IT service desk and ticketing system with secure authentication, ticket lifecycle management and AI-assisted resolution. | Spring Boot, REST APIs, Keycloak, OAuth2/OIDC, Docker, GitHub Actions, Prometheus, Grafana | [View repo](YOUR_SMARTDESKSUPPORT_REPO_URL) | 🚧 In progress |
-| **💳 PayBridge** | Payment gateway abstraction with provider routing, failover, webhooks and an event-driven design. | Spring Boot, Webhooks, Event-driven architecture | [View repo](YOUR_PAYBRIDGE_REPO_URL) | 🚧 In progress |
-| **⚛️ QuantumKat Solutions** | Software solutions covering web apps, business automation, internal systems and AI-powered solutions. | Web applications, Automation, AI | [Learn more](YOUR_QUANTUMKAT_URL) | 🌱 Active |
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-I'm open to conversations about backend engineering, cloud, DevOps and data roles.
+Open to conversations about backend engineering, cloud, DevOps and security.
 
 <br/>
 
