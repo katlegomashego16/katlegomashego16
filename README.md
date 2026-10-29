@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:0d1117&text=Katlego%20Mashego&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20Cloud%20%C2%B7%20Security&descAlignY=58&descSize=18&animation=fadeIn" alt="Katlego Mashego header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f6feb,100:0d1117&text=Katlego%20Mashego&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Engineering%20%C2%B7%20Pipelines%20%C2%B7%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="Katlego Mashego header banner" width="100%" />
 
 <h1>Hi 👋, I'm Katlego Mashego</h1>
 
 <a href="https://github.com/katlegomashego16">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Software+Engineer+%7C+Java+%26+Spring+Boot;Cloud+%7C+DevOps+%7C+DevSecOps;Secure%2C+observable+backend+systems" alt="Software Engineer | Java & Spring Boot | Cloud | DevOps | DevSecOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Data+Engineering+%7C+Python+%26+SQL;Pipelines+%7C+Data+Modelling+%7C+Cloud;Reliable%2C+observable+data+systems" alt="Data Engineering | Python & SQL | Pipelines | Cloud" />
 </a>
 
 <br/>
@@ -30,11 +30,11 @@
 
 <div align="center">
 
-I'm a **backend software engineer** who works mainly in **Java and Spring Boot**.
+I'm an engineer focused on **data engineering**, with a **software engineering background** built on **Java and Spring Boot**.
 
-I care about the parts of a system that only show up once it's running for real: identity and access, failure handling, deployment and visibility into what the service is doing. That's why I build with **Keycloak and OAuth2/OIDC**, ship through **CI/CD pipelines**, run everything in **containers**, and instrument services with **Prometheus and Grafana**.
+I care about the parts of a data system that only show up once it's running for real: **data modelling**, **reliability and idempotency**, **data quality**, **access control** and **visibility into what a pipeline is doing**. Coming from a software engineering background, I treat pipelines and data services like any production system: containerised, deployed through **CI/CD**, secured with **OAuth2/OIDC**, and instrumented with **Prometheus and Grafana**.
 
-I learn by building **production-style systems** rather than following tutorials end to end, and I'm steadily pushing further into **cloud, DevOps and application security**.
+I learn by building **production-style systems** rather than following tutorials end to end, and I'm steadily pushing further into **cloud data platforms, pipeline engineering and data security**.
 
 </div>
 
@@ -42,9 +42,9 @@ I learn by building **production-style systems** rather than following tutorials
 
 <div align="center">
 
-| 🧱 How I build | 🔐 What I prioritise | 🚢 How I ship |
+| 🗄️ How I model | 🔐 What I prioritise | 🚢 How I ship |
 |:---:|:---:|:---:|
-| Clean REST APIs<br/>Microservice boundaries<br/>Solid data modelling | Authentication and authorization<br/>API security<br/>Scanning in the pipeline | Docker and CI/CD<br/>Metrics and monitoring<br/>Repeatable deployments |
+| Relational data modelling<br/>Schema design<br/>Query and index optimisation | Data quality and consistency<br/>Access control and API security<br/>Scanning in the pipeline | Docker and CI/CD<br/>Metrics and monitoring<br/>Repeatable deployments |
 
 </div>
 
@@ -54,7 +54,7 @@ I learn by building **production-style systems** rather than following tutorials
 
 **Engineering interests**
 
-Distributed systems · Microservices · Event-driven architecture · API design · Cloud-native applications · DevSecOps · Payment systems · Fraud detection · AI-assisted applications
+Data pipelines · Data modelling · Event-driven architecture · Streaming and batch processing · Cloud data platforms · Data quality and observability · Data security · Payment and fraud data · AI-assisted applications
 
 </div>
 
@@ -66,12 +66,12 @@ Distributed systems · Microservices · Event-driven architecture · API design 
 
 | | |
 |:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,bash,go&theme=dark" alt="Java, Python, Bash, Go" /> &nbsp;+ SQL |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,maven,hibernate&theme=dark" alt="Spring, Maven, Hibernate" /> <br/><sub>Spring Boot · Spring Security · REST APIs · Microservices · JPA/Hibernate</sub> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL, Redis" /> <br/><sub>Database design and optimization</sub> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,bash,go&theme=dark" alt="Python, Java, Bash, Go" /> &nbsp;+ SQL |
+| **Data and Storage** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL, Redis" /> <br/><sub>Relational modelling · Schema design · Query optimisation · Caching</sub> |
+| **Data Services** | <img src="https://skillicons.dev/icons?i=spring,maven,hibernate&theme=dark" alt="Spring, Maven, Hibernate" /> <br/><sub>Spring Boot · REST APIs · Event-driven services · JPA/Hibernate</sub> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="AWS, Azure" /> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,linux&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Jenkins, Linux" /> <br/><sub>CI/CD · Infrastructure concepts</sub> |
-| **Security** | <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" /> <img src="https://img.shields.io/badge/OAuth2%20%2F%20OIDC-1f6feb?style=flat-square" alt="OAuth2 / OIDC" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" /> <img src="https://img.shields.io/badge/SonarQube%20%2F%20Cloud-4E9BCD?style=flat-square&logo=sonarqubecloud&logoColor=white" alt="SonarQube / SonarCloud" /> <br/><sub>Spring Security · API security · DevSecOps · Vulnerability scanning</sub> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,linux&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Jenkins, Linux" /> <br/><sub>CI/CD · Containerised deployments · Infrastructure concepts</sub> |
+| **Security** | <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" /> <img src="https://img.shields.io/badge/OAuth2%20%2F%20OIDC-1f6feb?style=flat-square" alt="OAuth2 / OIDC" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" /> <img src="https://img.shields.io/badge/SonarQube%20%2F%20Cloud-4E9BCD?style=flat-square&logo=sonarqubecloud&logoColor=white" alt="SonarQube / SonarCloud" /> <br/><sub>Data access control · API security · DevSecOps · Vulnerability scanning</sub> |
 | **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Prometheus, Grafana" /> <br/><sub>Spring Boot Actuator · Metrics · Logging and monitoring</sub> |
 
 </div>
@@ -111,7 +111,7 @@ Distributed systems · Microservices · Event-driven architecture · API design 
 
 <div align="center">
 
-Open to conversations about backend engineering, cloud, DevOps and security.
+Open to conversations about data engineering, pipelines, cloud and data security.
 
 <br/>
 
